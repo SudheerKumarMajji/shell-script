@@ -12,4 +12,6 @@ git add <file name>
 git commit -m "message"
 
 git push -u origin main
+ -----------------
 
+ git add , ; git commit -m "msg" ; git push -u origin main
